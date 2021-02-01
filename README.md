@@ -39,6 +39,6 @@ line break
 
 line break?
 
-:::note
+::: note
 
 
